@@ -1,0 +1,39 @@
+﻿
+<!-- botões flutuantes das redes sociais -->
+
+<!-- FACEBOOK -->
+<div id="div_facebook"><a href="#" target="_blank"><img src="imagens/facebook-site.png" width="45" alt=""></a></div>
+<!-- FACEBOOK -->
+
+
+<!-- INSTAGRAM -->
+<div id="div_instagram"><a href="#" target="_blank"><img src="imagens/instagram-site.png" width="45" alt=""></a></div>
+<!-- INSTAGRAM -->
+
+
+<!-- TWITTER -->
+<div id="div_twitter"><a href="#" target="_blank"><img src="imagens/twitter-site.png" width="45" alt=""></a></div>
+<!-- TWITTER -->
+
+
+<!-- YOUTUBE-->
+<div id="div_youtube"><a href="#" target="_blank"><img src="imagens/youtube-site.png" width="45" alt=""></a></div>
+<!-- YOUTUBE -->
+
+
+<!-- LINKEDIN -->
+<div id="div_linkedin"><a href="#" target="_blank"><img src="imagens/linkedin-site.png" width="45" alt=""></a></div>
+<!-- LINKEDIN -->
+
+<!-- botões flutuantes das redes sociais -->
+
+
+=========================
+Instruções
+=========================
+
+Adicionar dentro da tag <body>
+Substituir a # para a URL do link correto.
+Lembre-se de alterar o caminho da imagem se necessário.
+
+

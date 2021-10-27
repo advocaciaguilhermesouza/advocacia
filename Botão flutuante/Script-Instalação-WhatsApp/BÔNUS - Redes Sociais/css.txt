@@ -1,0 +1,67 @@
+﻿
+   #div_twitter {
+    
+    /* width:45px; */
+    right: 0px; 
+   /*  height:250px; */
+    position:fixed; 
+   /* margin:5px; */
+    margin-top: 296px;
+    z-index:2;
+
+ }
+
+   #div_facebook {
+    
+    /* width:45px; */
+    right: 0px;
+   /*  height:250px; */
+    position:fixed; 
+   /* margin:5px; */
+    margin-top: 204px;
+    z-index:2;
+
+ }
+
+    #div_instagram {
+    
+    /* width:45px; */
+    right: 0px;
+   /*  height:250px; */
+    position:fixed; 
+   /* margin:5px; */
+    margin-top: 250px;
+    z-index:2;
+
+ }
+    #div_youtube {
+    
+   /* width:45px; */
+    right: 0px; 
+   /*  height:250px; */
+    position:fixed; 
+   /* margin:5px; */
+    margin-top: 342px;
+    z-index:2;
+
+ }
+
+      #div_linkedin {
+    
+    /* width:45px; */
+    right: 0px;
+   /*  height:250px; */
+    position:fixed; 
+   /* margin:5px; */
+    margin-top: 388px;
+    z-index:2;
+
+ }
+
+
+
+=========================
+Instruções
+=========================
+
+Adicionar ao CSS.
