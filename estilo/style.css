@@ -194,7 +194,7 @@ footer a:hover {
    /*  height:250px; */
     position:fixed; 
    /* margin:5px; */
-    margin-top: 355px;
+    margin-top: 345px;
     z-index:2;
 
  }
@@ -206,7 +206,45 @@ footer a:hover {
    /*  height:250px; */
     position:fixed; 
    /* margin:5px; */
-    margin-top: 400px;
+    margin-top: 390px;
     z-index:2;
 
  }
+ 
+    #div_google {
+    
+    /* width:45px; */
+    right: 0px;
+   /*  height:250px; */
+    position:fixed; 
+   /* margin:5px; */
+    margin-top: 435px;
+    z-index:2;
+
+ } 
+
+    #div_mapa {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+    }
+
+    .imgContainer {  
+
+        max-width: 64px;
+        display: flex;
+        margin: 0% 0% 0% 30%;
+    }
+
+    .googleclick {
+
+        padding: 30px;
+    }
+
+    .instagramclick {
+        padding: 30px;
+    }
+
+    .facebookclick {
+        padding: 30px;
+    }
